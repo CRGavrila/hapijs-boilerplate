@@ -1,0 +1,35 @@
+{
+  "name": "hapijs-boilerplate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "boom": "^7.3.0",
+    "disinfect": "^1.0.0",
+    "dotenv": "^7.0.0",
+    "hapi": "^18.1.0",
+    "moment": "^2.24.0",
+    "mongo-sanitize": "^1.0.1",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CRGavrila/hapijs-boilerplate.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CRGavrila/hapijs-boilerplate/issues"
+  },
+  "homepage": "https://github.com/CRGavrila/hapijs-boilerplate#readme"
+}
